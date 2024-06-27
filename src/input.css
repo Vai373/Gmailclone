@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #f6f8fc;
+}
+.menu {
+    margin-left: 40px;
+}
+.search {
+    width: 700px;
+}
+.lable {
+    margin-top: 50px;
+    font-size: large;
+}
+.lable .hello {
+    /* margin-top: 50px; */
+    margin-left: 160px;
+}
+.help {
+    margin-left: auto;
+}
+
+.setting {
+    margin-left: 25px;
+}
+
+.Gapps {
+    margin-left: 15px;
+}
+
+.Gaccount {
+    margin-left: 15px;
+    width: 40px;
+}
+
+.sidebar {
+    min-width: 256px;
+    width: 256px;
+}
+.compose {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.box {
+    margin-top: 40px;
+}
+.count {
+    margin-right: 20px;
+    font-size: smaller;
+}
+.prim {
+    margin-top: 30px;
+}
+.pro {
+    margin-left: 110px;
+}
+.soci {
+    margin-left: 130px;
+}
+.calu {
+    width: 30px;
+    height: 40px;
+    margin-top: 30px;
+}
+.keep {
+    width: 30px;
+    height: 40px;
+    margin-top: 30px;
+}
+.task {
+    width: 30px;
+    height: 40px;
+    margin-top: 30px;
+}
+.conta {
+    width: 30px;
+    height: 40px;
+    margin-top: 30px;
+}
+
+.subject {
+    width: 200px;
+}
